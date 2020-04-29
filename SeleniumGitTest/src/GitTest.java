@@ -5,6 +5,8 @@ public class GitTest {
 		
 		
 		//add some code and come features are added
+		 
+		//some methods are added
 		
 	}
 
